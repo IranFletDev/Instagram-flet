@@ -44,8 +44,8 @@ Make sure you have these installed on your machine:
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/yourusername/your-flet-project.git
-cd your-flet-project
+git clone https://github.com/IranFletDev/Instagram-flet
+cd Instagram-flet
 ```
 
 2. **Create and activate a virtual environment (recommended):**
