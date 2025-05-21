@@ -101,6 +101,10 @@ ft.app(
 Open your browser and visit:  
 `http://localhost:8550`
 
+![insta-output1](https://github.com/user-attachments/assets/5ac16415-f934-4493-840e-758843b0d351)
+
+![insta-output2](https://github.com/user-attachments/assets/d6222f96-b08b-41ce-9a35-04d647e784c5)
+
 
 ---
 
